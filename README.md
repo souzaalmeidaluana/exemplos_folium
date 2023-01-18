@@ -5,4 +5,5 @@ Esse repositório é um compilado de vários exemplos sobre como criar mapas no 
 - [Mapa de Calor](https://github.com/souzaalmeidaluana/exemplos_folium/tree/main/Mapa%20de%20Calor)
 - [Mapa de Calor Avancado](https://github.com/souzaalmeidaluana/exemplos_folium/tree/main/Mapa%20de%20Calor%20Avancado)
 - [Como adicionar uma caixa de busca a um mapa](https://github.com/souzaalmeidaluana/exemplos_folium/tree/main/Caixa%20de%20Busca)
+- [Como adicionar a rosa dos ventos a um mapa](https://github.com/souzaalmeidaluana/exemplos_folium/tree/main/Rosa%20dos%20Ventos)
 
