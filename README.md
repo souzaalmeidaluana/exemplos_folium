@@ -7,4 +7,5 @@ Esse repositório é um compilado de vários exemplos sobre como criar mapas no 
 - [Como adicionar uma caixa de busca a um mapa](https://github.com/souzaalmeidaluana/exemplos_folium/tree/main/Caixa%20de%20Busca)
 - [Como adicionar a rosa dos ventos a um mapa](https://github.com/souzaalmeidaluana/exemplos_folium/tree/main/Rosa%20dos%20Ventos)
 - [Tudo sobre TILES (planos de fundo) no FOLIUM](https://github.com/souzaalmeidaluana/exemplos_folium/tree/main/Tudo%20sobre%20TILES)
+- [Adicionando LINHAS a um mapa](https://github.com/souzaalmeidaluana/exemplos_folium/tree/main/Adicionando%20LINHAS%20a%20um%20mapa)
 
