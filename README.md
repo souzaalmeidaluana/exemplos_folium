@@ -10,3 +10,4 @@ Esse repositório é um compilado de vários exemplos sobre como criar mapas no 
 - [Tudo sobre TILES (planos de fundo) no FOLIUM](https://github.com/souzaalmeidaluana/exemplos_folium/tree/main/Tudo%20sobre%20TILES)
 - [Adicionando LINHAS a um mapa](https://github.com/souzaalmeidaluana/exemplos_folium/tree/main/Adicionando%20LINHAS%20a%20um%20mapa)
 - [Adicionando POLIGONOS a um mapa](https://github.com/souzaalmeidaluana/exemplos_folium/tree/main/Adicionando%20POLIGONOS%20a%20um%20mapa)
+- [Geolocalização: display da sua localização em tempo real](https://github.com/souzaalmeidaluana/exemplos_folium/tree/main/Localizacao%20Instantanea)
