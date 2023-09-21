@@ -13,3 +13,4 @@ Esse repositório é um compilado de vários exemplos sobre como criar mapas no 
 - [Geolocalização: display da sua localização em tempo real](https://github.com/souzaalmeidaluana/exemplos_folium/tree/main/Localizacao%20Instantanea)
 - [Adicionando legendas ao mapa](https://github.com/souzaalmeidaluana/exemplos_folium/blob/main/Legenda_Folium.ipynb)
 - [Conversor de arquivo SHAPE para GEOJSON](https://github.com/souzaalmeidaluana/exemplos_folium/tree/main/Converter%20arquivo%20SHAPE%20para%20GEOJSON)
+- [Mapa coropletico](https://github.com/souzaalmeidaluana/exemplos_folium/tree/main/Mapa%20Coropletico)
