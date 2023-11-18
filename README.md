@@ -16,3 +16,5 @@ Esse repositório é um compilado de vários exemplos sobre como criar mapas no 
 - [Mapa coropletico](https://github.com/souzaalmeidaluana/exemplos_folium/tree/main/Mapa%20Coropletico)
 - [Mapa de Calor - Animado](https://github.com/souzaalmeidaluana/exemplos_folium/tree/main/Mapa%20de%20Calor%20-%20Animado)
 - [Mapa animado](https://github.com/souzaalmeidaluana/exemplos_folium/tree/main/Mapa%20Animado)
+- [Como mostrar DIA/NOITE em tempo real no mapa](https://github.com/souzaalmeidaluana/exemplos_folium/tree/main/Terminator)
+
